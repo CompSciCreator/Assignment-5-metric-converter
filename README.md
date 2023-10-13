@@ -1,2 +1,17 @@
-# Assignment-5-metric-converter
-Assignment 5: A simple command line application for metric converter. Objectives: Reinforce your skills of using control flow statements (such as while loop, if-else, switch) and Scanner to interactively process a user's keyboard inputs. In this assignment, you are required to implement a simple command line app to convert different metrics. 
+## Getting Started
+
+Welcome to the Metric Conversion App By Andrew Paolella. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+
+First run your program.
+
+Enter the value of the listed metrics that you would like to convert (1 = Kg to Lbs)
+
+Then enter the value that you would like converted
+
+If you made a mistake or error and would like to exit the program, simply type "exit" in the terminal. 
+
+Conversion factor: 1 kilogram = 2.20462 pounds
+Conversion factor: 1 gram = 0.03527396 ounces
+Conversion factor: 1 kilometer = 0.621371 miles
+Conversion factor: 1 millimeter = 0.0393701 inches
+
